@@ -1,0 +1,58 @@
+name: jude.stroman
+description: Down-sized
+version: 3.26.58
+author: nrqfvghj.juudcsx2@er47aqxu.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: judestroman
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2026-01-02 22:12:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-01-02 22:12:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-01-02T22:12:51.436239Z'
+  name: plibMaven
+  version: 8.17.0-SNAPSHOT
+  id: '425003140'
+  createdAt: '2026-01-02T22:12:51.436239Z'
+  type: plibMaven
+projectDependencies:
+  '384':
+    projectUID: 384
+    projectName: diane.weimann
+    repositoryPath: gitUri=http://gitserver:3000/dev_bwbEwbCq_team_605/dev_bwbEwbCq_project_384.git&subPath=
+    version: diane.weimann/8.2.0.205
+    isDefault: false
+    author: null
+    createdAt: '2026-01-02 22:12:48'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
